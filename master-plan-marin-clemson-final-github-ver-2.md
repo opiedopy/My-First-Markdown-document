@@ -1,7 +1,6 @@
 1\. MathLab
+![sunset](https://github.com/user-attachments/assets/f9a3d3fd-d258-4de5-9406-83272b65530e)
 
-![](media/Pictures/10000000000015E000001130B962A3DCE332CDB9.jpg){width="2.3516in"
-height="0.6929in"}
 
 2.GitHub
 
