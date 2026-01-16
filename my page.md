@@ -8,7 +8,7 @@ It looks plain in a text editor, but becomes nicely formatted when previewed.
 - Photosynthesis turns sunlight into food
 - DNA carries the instructions for life
 
-## Quick Facts About Cells
+### Quick Facts About Cells
 
 | Part of Cell     | What it Does                          | Fun Analogy          |
 |------------------|---------------------------------------|----------------------|
