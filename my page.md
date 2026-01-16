@@ -35,5 +35,9 @@ Questions I still have:
 - Draw my own cell diagram
 - Watch a video on cellular respiration
 
+*To-do for next study session:*
+- Draw my own cell diagram
+- Watch a video on cellular respiration
+  
 Created on: January 15, 2026  
 By: Grandpa's Test Run 😊
