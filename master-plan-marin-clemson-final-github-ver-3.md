@@ -2,6 +2,7 @@
 
 <img src="sunset.jpg"
 style="width:2.3516in;height:0.6929in" />
+<img src="sunset.jpg" width="600">
 
 2.GitHub
 
