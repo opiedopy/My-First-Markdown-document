@@ -15,6 +15,7 @@ It looks plain in a text editor, but becomes nicely formatted when previewed.
 | Nucleus          | Holds DNA, the "brain" of the cell    | Control center       |
 | Mitochondria     | Makes energy (ATP)                    | Power plant          |
 | Cell Membrane    | Controls what goes in and out         | Security gate        |
+| Cell Membrane8    | Controls what goes in and out         | Security gate8        |
 
 #### A Simple Diagram Idea
 # (Imagine a hand-drawn picture here later)
