@@ -1,6 +1,6 @@
 1\. MathLab
 
-<img src="images/sunset.jpg"
+<img src="sunset.jpg"
 style="width:2.3516in;height:0.6929in" />
 
 2.GitHub
