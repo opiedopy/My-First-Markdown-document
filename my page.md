@@ -16,7 +16,7 @@ It looks plain in a text editor, but becomes nicely formatted when previewed.
 | Mitochondria     | Makes energy (ATP)                    | Power plant          |
 | Cell Membrane    | Controls what goes in and out         | Security gate        |
 
-## A Simple Diagram Idea
+#### A Simple Diagram Idea
 (Imagine a hand-drawn picture here later)
 
 ![Plant Cell](https://cdn.britannica.com/04/114904-050-722C9D96/Cutaway-drawing-plant-cell-organelles-wall.jpg?w=300)
