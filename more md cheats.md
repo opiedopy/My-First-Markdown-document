@@ -13,3 +13,8 @@ You can do basic emphasis:
 bold (**text**), 
 italic (*text*), 
 bold italic (***text***)
+
+You can do basic emphasis:
+bold (**text**)
+italic (*text*)
+bold italic (***text***)
